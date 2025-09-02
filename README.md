@@ -64,7 +64,7 @@ Clone this repo and run the installer:
 
 git clone https://github.com/trollminer/Openwebrx.git
 
-cd openwebrx
+cd Openwebrx
 
 chmod +x openwebrx.sh
 
